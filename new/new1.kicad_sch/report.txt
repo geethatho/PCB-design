@@ -1,0 +1,17 @@
+Info: Reading netlist file 'C:\Users\GEETHA\Documents\STM32\STM32\bluetooth stm32\new\new1.kicad_sch\new1.kicad_sch.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'U2:Sensor_Pressure:Freescale_98ARH99089A'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'U1:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+
+
+Info: Total warnings: 0, errors: 0.
